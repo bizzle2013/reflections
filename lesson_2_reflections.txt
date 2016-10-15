@@ -8,3 +8,33 @@ What value do you think it offers?
 
 	The staging area allows you to add components to the workspace without
 	recording a commit. Doing this allows full version control
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	If you intend on changing multiple files (which you should), you can add them to
+	the staging area piece by piece before committing the changes to make the commit
+	more logical.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+	It allows version control for different builds of the same repository while
+	maintaining the original builds or commits of the master version.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps me keep track of the builds to the repository and it also allows
+	me to save the commits without them getting lost in local cyber space
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+	I do not know because my merge is not working. It is represented in this manner
+	to show the history of the current build and how the current state of the 
+	repository got to this point.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Auto merges are faster but are more error-proned. Manual merges are more time
+	consuming but has more user control.
+
